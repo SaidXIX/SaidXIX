@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said Bouziani</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img src="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#query=developer&position=4&from_view=search&track=sph">
 - 🌱 I’m currently learning **Node.JS**
 
 - 📫 How to reach me **pro.contactsaid@gmail.com**
