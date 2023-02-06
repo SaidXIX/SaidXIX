@@ -1,3 +1,4 @@
+<img align="center" src="https://tenor.com/fr/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882" alt="Cover">
 <h1 align="center">Hi 👋, I'm Said Bouziani</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
