@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said Bouziani</h1>
-<h3 align="center">A passionate Web Developer</h3>
-
-- 🌱 I’m currently learning **Node.JS**
+<h3 align="center">A passionate Software Engineer | Web Developer</h3>
 
 - 📫 How to reach me **pro.contactsaid@gmail.com**
 
